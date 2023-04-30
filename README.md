@@ -1,0 +1,3 @@
+# kokogame
+
+#chikens and eggs
